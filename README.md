@@ -1,1 +1,1 @@
-# My app project I used with some friends when I was competing in Pokemon VGC before when megas were first introduced. Used it to develop my core team for Regionals in Orlando. 
+# My app project I used with some friends when I was competing in Pokemon VGC before when megas were first introduced. Used it to develop my core team for Regionals in Orlando. Used python and tkinter (GUI) to make it. It sends data to a MySQL database, where I can analyze suggestions from other players on what moves to give my Mega Gengar for that competition season. 
